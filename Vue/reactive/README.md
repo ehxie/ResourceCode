@@ -34,4 +34,4 @@ node .\mini_observe.js
 
 
 
-[doc]()
+[doc](https://ehxie.github.io/2021/11/19/vue/reactive/)
